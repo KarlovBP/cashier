@@ -1,0 +1,12 @@
+1
+"."
+1
+  DIR "dist" "dist" HIDDEN
+  2
+    DIR "lib" "dist\lib" HIDDEN
+    4
+      FILE "mysql-connector-java-5.1.23-bin.jar" "C:\Users\Алексей\Documents\cashier\CarClean_jetpdb\tmpres\mysql-connector-java-5.1.23-bin__4.jar" HIDDEN
+      FILE "rs2xml.jar" "C:\Users\Алексей\Documents\cashier\CarClean_jetpdb\tmpres\rs2xml__3.jar" HIDDEN
+      FILE "swingx-beaninfo-1.6.2.jar" "C:\Users\Алексей\Documents\cashier\CarClean_jetpdb\tmpres\swingx-beaninfo-1.6.2__1.jar" HIDDEN
+      FILE "swingx-core-1.6.2.jar" "C:\Users\Алексей\Documents\cashier\CarClean_jetpdb\tmpres\swingx-core-1.6.2__2.jar" HIDDEN
+    FILE "cashier.jar" "C:\Users\Алексей\Documents\cashier\CarClean_jetpdb\tmpres\cashier__0.jar" HIDDEN

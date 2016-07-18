@@ -1,0 +1,67 @@
+%%Excelsior JET v11.0 project file
+
+-jpiiproject=C:\Users\Алексей\Documents\cashier\CarClean.jpn
+
+-compilewithfixedheap-
+-genstackalloc+
+-genstacktrace-
+-global-
+-gui+
+-ignoreclassduplication+
+-ignorememberabsence+
+-inline+
+-jetcpenablemanualsettings+
+-multiapp-
+-splashgetfrommanifest-
+
+-apptype=Plain
+-classabsence=HANDLE
+-compilerheap=1744830464
+-inlinelimit=100
+-inlinetolimit=1000
+-jetcplastpage:=PageCompile
+-jetrt=Classic
+-jetvmprop=-Djet.gc.heaplimit:0 -Djet.stack.trace
+-main=test/auto/Main_cashier
+-outputdir=.
+-outputname=CarClean
+-saprofmode=JETCPONLY
+-saproftimeout=20
+-stacklimit=900000
+-startupprofile=./CarClean.startup
+-versioninfocompanyname=by Karlov1
+-versioninfofiledescription=CarClean
+-versioninfolegalcopyright=Copyright \x00a9 2016 by Karlov1
+-versioninfoproductname=CarClean
+
+
+
+
+!classpathentry ./dist/cashier.jar
+  -pack=noncompiled
+  -protect=all
+  -optimize=all
+!end
+!classpathentry ./dist/lib/swingx-beaninfo-1.6.2.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./dist/lib/swingx-core-1.6.2.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./dist/lib/rs2xml.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+!classpathentry ./dist/lib/mysql-connector-java-5.1.23-bin.jar
+  -pack=noncompiled
+  -protect=nomatter
+  -optimize=all
+!end
+
+!module ./CarClean.usg
+

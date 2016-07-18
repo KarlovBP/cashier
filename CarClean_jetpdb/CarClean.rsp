@@ -1,0 +1,35 @@
+
+-jetcomponent=11.00
+-jetedition=Evaluation
+-vcode=8040
+-sys=W
+-nosmart
+-zimer=0
+-stack=900000
+-LargeAddressAware
+-config=VMProperty:-Djet.gc.heaplimit:0 -Djet.stack.trace
+-config=ClassPath:*{exe.dir}\dist\cashier.jar;*{exe.dir}\dist\lib\swingx-beaninfo-1.6.2.jar;*{exe.dir}\dist\lib\swingx-core-1.6.2.jar;*{exe.dir}\dist\lib\rs2xml.jar;*{exe.dir}\dist\lib\mysql-connector-java-5.1.23-bin.jar
+-config=JETProfile:8040
+-config=JETProfileName:1.8.0_40
+-config=RuntimeKind:CLASSIC
+-EmbeddedFileSys=C:/Users/Алексей/Documents/cashier/CarClean_jetpdb/CarClean.efs
+-config=MainClass:test/auto/Main_cashier
+-config=VersionInfo:jet-1100-release (eval, en)
+-config=CompatibilityString:Java SE version: 1.8.0_40; JET update level: 0; CPU architecture: x86
+-name=CarClean.exe
+C:\Users\Алексей\Documents\cashier\CarClean_jetpdb\version.res
+
+-entry=ExeEntryPoint
+
+-LinkFileAsRData=LINK_SplashPicture:E:\jet11.0-eval-x86\lib\x86\dummysplash.lib
+E:\jet11.0-eval-x86\lib\x86\startup-exe-normal.zip
+-config=PackagingOptions:dlls=java;net;t2k;nio;awt;dcpr;fontmanager;zip component_microversions=BC-0
+-ReadLinkInfo=C:\Users\Алексей\Documents\cashier\CarClean_jetpdb\reorder.li
+C:\Users\Алексей\Documents\cashier\CarClean_jetpdb\obj.zip
+-Config=RTComponent:XKRN11008040.dll
+E:\jet11.0-eval-x86\lib\x86\startup-rtlink.zip
+E:\jet11.0-eval-x86\lib\x86\import32.lib
+E:\jet11.0-eval-x86\lib\x86\app.res
+-StrictLinkToDLL
+
+
